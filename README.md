@@ -101,5 +101,5 @@ La documentation interactive est disponible à l’URL suivante :
 ✅ Rôles avancés (Super Admin, gestion des permissions)
 
 ---
-📌 **Développé par : [Ton Nom]** 🚀
+📌 **Développé par : Bernado ADIKPETO** 🚀
 
